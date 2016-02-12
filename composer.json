@@ -1,0 +1,17 @@
+{
+    "name": "ghunti/cron-planner",
+    "description": "A cron planner",
+    "require": {
+        "mtdowling/cron-expression": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gonçalo Queirós",
+            "email": "mail@goncaloqueiros.net"
+        }
+    ],
+    "autoload": {
+        "files": ["functions.php"]
+    }
+}
