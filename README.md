@@ -4,7 +4,7 @@ Cron Planner
 Cron planner is a web tool that provides a graphical visualization of a daily run of all your crontabs.  
 The purpose of the tool is to assist anyone who has a lot of crons running wild in the system, organizing them.
 
-You can download the tool, or use it on line at http://www.goncaloqueiros.net/cron-planner
+You can download the tool, or use it on line at https://goncaloqueiros.net/cron-planner/
 
 Why
 -----
